@@ -1,5 +1,7 @@
 # devnews
 
+🔗 **Site no ar:** https://devnews-theta.vercel.app/
+
 Projeto construído durante o curso.dev para aprender desenvolvimento
 web com Node.js, Next.js e React.
 
