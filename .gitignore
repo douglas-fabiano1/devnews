@@ -1,4 +1,3 @@
 # Pastas geradas automaticamente
 node_modules
 .next
-# teste - simulação de alteração no gitignore e uso do 'git commit --amend' para alterar o último commit realizado
