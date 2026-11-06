@@ -22,8 +22,3 @@ nvm use
 npm install
 npm run dev
 ```
-
-## Aprendizados
-
-Os aprendizados de cada aula estão registrados no
-[til-dev](https://github.com/douglas-fabiano1/til-dev).
